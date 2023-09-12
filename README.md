@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Allan Cao
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Cao">
 
-- 📊 I'm a League of Legends Analyst
-- 🏫 I will be studying Mathematics at the University of Calgary
+- 📊 I'm a League of Legends Analyst (LFT for Spring 2024!)
+- 🏫 I'm studying Mathematics at the University of Calgary
 
 #### Tools:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
