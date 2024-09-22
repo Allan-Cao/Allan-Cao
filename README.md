@@ -1,7 +1,8 @@
-### Hi 👋 I'm Allan Cao
+### Hello, World! 👋 I'm Allan Cao
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Cao">
 
-- 📊 I'm a League of Legends Analyst for FEAR x Starforge
+- 📊 I'm a League of Legends Data Analyst for FEAR x Starforge
+- 🏫 I'm a student at Keyano College
 
 #### Tools:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
