@@ -1,7 +1,7 @@
 ### Hello, World 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Cao">
 
-I'm Allan Cao and I'm currently a Computer Systems Technology student at Keyano College. I'm currently a player for the Keyano Huskies LoL team and analyst in the NACL. I love finding ways to merge my passion for esports with interesting software projects; many of which I have open-sourced.
+I'm Allan Cao and I'm currently a Computer Systems Technology student at Keyano College. I'm also an analyst for [Luminosity Gaming](https://lol.fandom.com/wiki/Luminosity_Gaming) in the NACL. I love finding ways to merge my passion for esports with interesting software projects; many of which I have open-sourced.
 
 #### My Favourite Tools 🛠️
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
