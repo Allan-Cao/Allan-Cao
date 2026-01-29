@@ -1,7 +1,7 @@
 ### Hello, World
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Cao">
 
-I'm Allan Cao and I'm currently studying for my CCNA and finishing my Computer Systems Technology Diploma online.
+I'm Allan Cao.
 
 > So, whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense to Jews or to Greeks or to the church of God, just as I try to please everyone in everything I do, not seeking my own advantage, but that of many, that they may be saved.
 
