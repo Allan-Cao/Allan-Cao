@@ -1,7 +1,7 @@
 ### Hello, World
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Cao">
 
-I'm Allan Cao.
+Hi, I'm Allan Cao.
 
 > So, whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense to Jews or to Greeks or to the church of God, just as I try to please everyone in everything I do, not seeking my own advantage, but that of many, that they may be saved.
 
@@ -29,6 +29,5 @@ I'm Allan Cao.
 
 
 #### Socials 📱
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/TauPiPhi)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-ycao/)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://allancao.ca)
